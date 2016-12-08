@@ -1,0 +1,27 @@
+SUJET
+
+Nous comptons sur vous pour nous faire voyager au pays des merveilles en customisant cette fameuse page qui aura donné du fil à retordre à un bon nombre de personnes.
+Une belle page dans notre thème, c’est très bien, une page utile à l’internaute, c’est encore mieux ! Soyez créatif et mettez nous en plein la vue. 
+
+
+custom, thème, utile, créatif.
+
+
+=> application cross-platform qui va servir de “compagnon” pour les réfugiés. Ca va leur donner les adresses pour dormir, manger (centres d’accueil) + acte bénévole d’aide + mise en valeur des gens dans le besoin dans twitter. Axé communication bénévoles - réfugiés.
+
+
+IDÉE(S)
+
+—> 404 sert de relai pour persuader l’utilisateur à devenir un bénévole (API twitter)
+—> Proposition de ce qu’on peut faire avec le site. Rappel du but du site, avec les différentes actions possibles (links).
+—> Page (vue 1ère personne), bateau sur la mer. parallèle avec situation réfugiés, deux choix possibles : boussole (revenir à barre de recherche) ou étoiles (lien vers site MSF / aide migrant).
+—> Bateau, à gauche (bénévole), à droite (réfugié), en face (accueil), étoiles (MSF).
+—> Barre de recherche 
+—> vue 180°. terre ferme (France) => D / bateau réfugié.
+—> Conversation message, sensibilisation réfugiés + aide ou redirection site. (IA)
+—> 404, 3 chiffres, 3 propositions.
+
+
+FINAL
+
+=> 

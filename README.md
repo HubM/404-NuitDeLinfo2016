@@ -3,4 +3,5 @@ Projet en réponse au défi de création d'un 404 originale sur le thème des mi
 
 Collaborateurs : 
 - Gautier Maire (gautmaire)
+- Loic Gouttefangeas (LGouttefange)
 - Hubert Moncenis
